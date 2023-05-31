@@ -97,7 +97,7 @@ hr.RampBreak--l {
   max-width: 700px;
   border: 1px solid var(--color-darker-shade);
   margin-top: 0.5rem;
-  /* Remove the two properties below. These properties may limit the height of the dropdown and enable scrolling within the container, which can prevent it from moving with the page.*/
+  /* Removed the two properties below. These properties may limit the height of the dropdown and enable scrolling within the container, which can prevent it from moving with the page.*/
   /*max-height: 16rem;
   overflow: auto;*/
   box-shadow: rgb(0 0 0 / 10%) 0px 0px 1px, rgb(0 0 0 / 13%) 0px 4px 8px;
